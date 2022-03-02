@@ -52,20 +52,3 @@ Alternatives
 
 Use built-in `--fail-fast`
 
-Authors
-=======
-
-### [Contributors](http://github.com/grosser/rspec-instafail/contributors)
- - [Matthew Willhite](http://github.com/miwillhite)
- - [Jeff Kreeftmeijer](http://jeffkreeftmeijer.com)
- - [Steve Tooke](http://tooky.github.com)
- - [Josh Ellithorpe](https://github.com/zquestz)
- - [Raphael Sofaer](https://github.com/rsofaer)
- - [Mike Mazur](https://github.com/mikem)
- - [vernonR2](https://github.com/vernonR2)
- - [Olek Janiszewski](https://github.com/exviva)
- - [Kevin Carter](https://github.com/DexterTheDragon)
-
-[Michael Grosser](http://grosser.it)<br/>
-michael@grosser.it<br/>
-License: MIT
